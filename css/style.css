@@ -2,4 +2,8 @@ h1{
     color:blue;
     font-family: 'Times New Roman', Times, serif;
 }
+#myImage{
+    width: 200px;
+    height: auto;
+}
 
