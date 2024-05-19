@@ -1,8 +1,11 @@
+/**Styling for the websites main header **/
 h1{
     color:aliceblue;
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
 }
+
+/** **/
 #rowdy{
     width: 200px;
     height: auto;
