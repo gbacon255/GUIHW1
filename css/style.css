@@ -4,9 +4,14 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 #rowdy{
-    width: 100px;
+    width: 200px;
     height: auto;
     float:right
+}
+#pictureOfMe{
+    width: 200px;
+    height: auto;
+    float:right;
 }
 body{
     background-color:aliceblue;
