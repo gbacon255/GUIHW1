@@ -1,9 +1,9 @@
 /**Styling for the websites main header **/
-h1{
+h1,h2{
     color:aliceblue;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 2.5em;
+    font-size: 2.25em;
 }
 
 /**Changing the size of riverhawk image and adjusting to the left**/
