@@ -13,6 +13,9 @@ h1{
     height: auto;
     float:right;
 }
+figure{
+    float: right;
+}
 body{
     background-color:aliceblue;
 }
