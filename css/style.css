@@ -26,6 +26,6 @@ body{
 }
 
 /**Paragraph formating**/
-p{
-    text-indent: 100px;
+#bodytext{
+    text-indent: 50px;
 }
