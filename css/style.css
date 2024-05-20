@@ -32,7 +32,7 @@ body{
     border:1px solid lightgrey
 }
 
-#bodytext2{
+p{
     text-indent: 25px;
     background-color: whitesmoke;
     border:1px solid lightgrey
