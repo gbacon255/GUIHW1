@@ -28,8 +28,12 @@ body{
 /**Paragraph formating**/
 #bodytext{
     text-indent: 25px;
+    background-color: whitesmoke;
+    border:1px solid lightgrey
 }
 
 #bodytext2{
     text-indent: 25px;
+    background-color: whitesmoke;
+    border:1px solid lightgrey
 }
