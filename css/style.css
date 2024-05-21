@@ -36,5 +36,16 @@ body{
 
 /*Formatting for the website's table*/
 table{
-
+    border:1px solid black;
+}
+td{
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+th{
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+tr{
+    border-right: 2px solid black;
 }
