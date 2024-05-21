@@ -12,11 +12,7 @@ h1{
     height: auto;
     float:right
 }
-#Me{
-    width: 200px;
-    height: auto;
-    float:right;
-}
+
 /*styling for image of myself*/
 figure{
     float: right;
@@ -28,8 +24,6 @@ body{
 }
 
 /**Paragraph formating**/
-
-
 #aboutMe1{
     text-indent: 25px;
 }
@@ -38,4 +32,9 @@ body{
 }
 #aboutMe3{
     text-indent: 25px
+}
+
+/*Formatting for the website's table*/
+table{
+
 }
